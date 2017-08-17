@@ -15,7 +15,7 @@ Header = {
     'Accept':'*/*'
 }
 cnt = 1
-page_num = 10
+page_num = 8
 page_url = 'https://api.unsplash.com/napi/feeds/home'
 for i in range(page_num):
     print('page'+str(i)+':')
