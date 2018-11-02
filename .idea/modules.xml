@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DriveIt/.idea/DriveIt.iml" filepath="$PROJECT_DIR$/../DriveIt/.idea/DriveIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../E-Hentai-Downloader/.idea/E-Hentai-Downloader.iml" filepath="$PROJECT_DIR$/../E-Hentai-Downloader/.idea/E-Hentai-Downloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exhentai/.idea/exhentai.iml" filepath="$PROJECT_DIR$/../exhentai/.idea/exhentai.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyJY.iml" filepath="$PROJECT_DIR$/.idea/pyJY.iml" />
     </modules>
   </component>
