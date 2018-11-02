@@ -1,2 +1,2 @@
 cnt = 1
-page_num = 8
+page_num = 1
